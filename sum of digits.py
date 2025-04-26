@@ -1,6 +1,6 @@
 #sum of digits of a number
 #Provide the number to be calculated
-number=11726
+number=14726
 #Initialize variable that will store the sum of the digits
 total= 0
 #use while loop until the number becomes 0
